@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [25/Nov/2022:22:38:36 +0530] "GET /ServletConfigDemo/ HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [25/Nov/2022:22:38:48 +0530] "GET /ServletConfigDemo/home HTTP/1.1" 200 23
+0:0:0:0:0:0:0:1 - - [25/Nov/2022:22:39:36 +0530] "GET /ServletConfigDemo/WEB-INF/web.xml HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Nov/2022:22:40:20 +0530] "GET /ServletConfigDemo/WEB-INF/web.xml HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Nov/2022:22:40:34 +0530] "GET /ServletConfigDemo/home HTTP/1.1" 200 23
+0:0:0:0:0:0:0:1 - - [25/Nov/2022:22:40:52 +0530] "GET /ServletConfigDemo/home HTTP/1.1" 200 23
+127.0.0.1 - - [25/Nov/2022:22:56:10 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Nov/2022:22:56:10 +0530] "GET /ServletConfigDemo/home HTTP/1.1" 200 12

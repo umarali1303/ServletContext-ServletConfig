@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+	<form action="home">
+	<input type="text" name="umar">
+	<input type="submit">
+	</form>
+
+</body>
+</html>
